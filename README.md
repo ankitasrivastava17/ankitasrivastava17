@@ -15,7 +15,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in Masai School as a J
 
 ### Some Stats About Ankita (Public Only)
 <p align="center" >
-<img alt="Ankita's github stats" src="https://github-readme-stats.vercel.app/api?username=ankitasrivastava17-&show_icons=true&theme=merko"  > </p>
+<img alt="Ankita's github stats" src="https://github-readme-stats.vercel.app/api?username=ankitasrivastava17&show_icons=true&theme=merko"  > </p>
 
 <a href="https://sourcerer.io/ANKITA-SRIVASTAVA">Check more about me here 🌟 </a>
 
